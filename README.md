@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LOLB-dev98
 - 👀 I’m interested in Cryptography, Systems Development, Data Structures and Algebraic structures
 - 🌱 I’m currently learning Data structures, Java and Sql
-- 💞️ I’m looking to collaborate on Java projects
+- 💞️ I’m looking to collaborate on Cryptography projects
 - 📫 How to reach me lbulhoes.dev@gmail.com
 
 <!---
